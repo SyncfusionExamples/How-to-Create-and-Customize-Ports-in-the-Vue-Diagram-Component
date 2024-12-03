@@ -1,6 +1,6 @@
 # How to Create and Customize Ports in the Vue Diagram Component
 
-A quick start Vue project that shows how to create and customize port nodes programmatically and dynamically in the Syncfusion [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-ports-sample) component. This project includes code snippets for adding multiple ports, customizing them dynamically, and connecting nodes using ports.
+A quick start Vue project that shows how to create and customize port nodes programmatically and dynamically in the Syncfusion&reg; [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-ports-sample) component. This project includes code snippets for adding multiple ports, customizing them dynamically, and connecting nodes using ports.
 
 Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-create-and-customize-ports-in-the-vue-diagram
 
